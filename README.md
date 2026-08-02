@@ -5,9 +5,9 @@
 This project predicts hourly solar power generation using weather parameters and a Random Forest Regression model.
 
 The application is developed using Python and deployed using Streamlit Community Cloud.
-
+Test Link
+https://solar-power-prediction-mbsusoz2wptecgf2mkjafz.streamlit.app/
 ---
-
 ## Machine Learning Model
 
 Algorithm:
